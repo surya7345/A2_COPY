@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-ftlqmxc8qkexr2uw.us.auth0.com"
      clientId="ATdLv65WM1rwkJlyjnvtYqHouC5WQeU3"
      authorizationParams={{
-      redirect_uri: "http://localhost:5173",
+      redirect_uri: "https://urbnspace-lime.vercel.app",
      }}
     
      audience="http://localhost:8000"
